@@ -1,0 +1,57 @@
+body {
+  background-color: cornsilk;
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+p {
+  font-size: 25px;
+  color: black;
+  text-shadow: 2px 2px 5px red;
+}
+li {
+  font-size: 20px;
+
+}
+.ingredients {
+  font-size: 50px;
+
+}
+
+h1 {
+	background-color: lightgray;
+	text-align: center;
+	border-style: double;
+	border-color: yellow;
+	font-size: 50px;
+  padding-top:25px;
+  padding-right: 15px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+  color: red;
+  text-decoration: underline;
+}
+h3 {
+	font-size: 30px;
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+h4 {
+	font-size: 25px;
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+img {
+  border-radius: 8px;
+}
+
+/*reference:url(https://www.w3schools.com/css/default.asp);*/
+
+
